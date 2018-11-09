@@ -90,3 +90,4 @@ C:\Users\HavenhurstTech1\Documents\Experience IT\MVCs\ComicBook_Round2\ComicBook
 C:\Users\HavenhurstTech1\Documents\Experience IT\MVCs\ComicBook_Round2\ComicBook_Round2\obj\Debug\ComicBook_Round2.csproj.CopyComplete
 C:\Users\HavenhurstTech1\Documents\Experience IT\MVCs\ComicBook_Round2\ComicBook_Round2\obj\Debug\ComicBook_Round2.dll
 C:\Users\HavenhurstTech1\Documents\Experience IT\MVCs\ComicBook_Round2\ComicBook_Round2\obj\Debug\ComicBook_Round2.pdb
+C:\Users\HavenhurstTech1\Documents\Experience IT\MVCs\ComicBook_Round2\ComicBook_Round2\obj\Debug\ComicBook_Round2.csprojAssemblyReference.cache
